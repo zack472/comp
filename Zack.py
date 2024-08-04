@@ -53,7 +53,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>K4ML4 SERV3R</title>
+  <title>Z4CK S3RV3R </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -87,8 +87,8 @@ def send_message():
   <header class="header mt-4">
     <h1 class="mb-3"> 
 
-    𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐄𝐑𝐕𝐄𝐑 3:)
-    <h1 class="mt-3">K4ML4 INXIID3   </h1>
+    ~ 𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐄𝐑𝐕𝐄𝐑 ~
+    <h1 class="mt-3">Z4CK INXIID3   </h1>
   </header>
 
   <div class="container">
@@ -117,9 +117,9 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by K4ML4 All Rights Reserved.</p>
+    <p>&copy; Developed by Zack All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-    <p>Keep enjoying  <a href="https://github.com/Abdullwh786</a></p>
+    <p>Keep enjoying  <a href="https://github.com/zack472</a></p>
   </footer>
 </body>
   </html>
